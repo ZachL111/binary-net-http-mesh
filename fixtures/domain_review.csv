@@ -1,0 +1,6 @@
+name,focus,signal,slack,drag,confidence,score,lane
+baseline,packet span,66,39,13,53,185,ship
+stress,retry pressure,61,34,25,72,153,ship
+edge,route drift,63,29,27,64,138,watch
+recovery,socket risk,56,29,27,49,109,watch
+stale,packet span,68,33,14,83,210,ship
